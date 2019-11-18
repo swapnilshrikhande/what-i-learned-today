@@ -1,5 +1,6 @@
 
 #Architecture is about change
+
 Good design means that when I make a change, it’s as if the entire program was crafted in anticipation of it.
 The measure of a design is how easily it accommodates changes.
 
